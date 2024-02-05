@@ -46,3 +46,12 @@ body {
 .scrollbar-thumb-rounded::-webkit-scrollbar-thumb {
   border-radius: 0.25rem;
 }
+
+
+.liwa-bg{
+  background-color: #3D3D5F!important;
+}
+
+.liwa-color{
+  color: #3D3D5F!important;
+}
