@@ -1,4 +1,4 @@
-export const siteData = `
+export const liwaData = `
 <url>
 <loc>https://lc.ac.ae</loc>
 <desc>Liwa College Website</desc>
@@ -242,5 +242,60 @@ export const siteData = `
 <url>
 <loc>https://lc.ac.ae/liwa-college-strategy</loc>
 <desc> An overview about liwa college Strategy </desc>
+</url>
+<url>
+<loc>https://lc.ac.ae/business-administration/business-administration-faculty</loc>
+<content>
+    <staff>
+    <url>https://lc.ac.ae/president-message</url>
+    <desc>
+        Professor Mohamed Dhiaf, President of liwa college
+        Associate Professor at Liwa College, Department of Business Information Technology at Liwa College.
+    </desc>
+    </staff>
+    <staff>
+    <url>https://lc.ac.ae/personnel/dr-anas-ali-yousef-alqudah-phd</url>
+    <desc>
+        Dean, Faculty of Business Dr. Anas Ali Yousef Al-Qudah, PhD
+        Business faculty with over 13 years of successful experience in teaching, research, and community service. Recognized consistently for performance excellence and contributions to success in teaching effectiveness, research, consultancy, and community services. Demonstrated leadership ability and ingenuity in developing and conducting academic and professional courses/programs.
+    </desc>
+    </staff>
+    <staff>
+    <url>https://lc.ac.ae/personnel/prof-badran-abdelrazzaq-m-h-badran</url>
+    <desc>
+        Dean, Faculty of Media and Public Relations Prof. Badran AbdelRazzaq M.H. Badran
+        Badran A. Badran is a Professor of Strategic Communication and a higher education expert. He obtained his Doctorate from the University of Massachusetts, Amherst. Earlier, he graduated from Indiana University in Bloomington with an M.A. in Journalism.
+        Professor Badran has extensive academic administrative experience at different universities, including serving at Zayed University (ZU) as Assistant Provost, Executive Assistant to the Vice President, and Acting Director of the Community Relations Department, Associate and Assistant Dean, and Accreditation Coordinator as well as teaching in the undergraduate and graduate programs in ZU’s College of Communication and Media Sciences. Prior to that, he served as chair of the Mass Communication Department at the United Arab Emirates University. Professor Badran has over 50 scholarly publications and regional conference participations in disciplines such as strategic communication, public relations, health and environmental communication, tourism promotion, communication and cultural policy, and others at the national, regional, and international levels. He is also a member of the editorial boards of several international academic journals. Moreover, Prof. Badran is a certified program and institutional reviewer by the UAE Ministry of Education’s Commission for Academic Accreditation (CAA) and has served as an external academic reviewer for three universities in the Arab Gulf region.
+    </desc>
+    </staff>
+    <staff>
+    <url>https://lc.ac.ae/personnel/prof-maxime-merheb</url>
+    <desc>
+        Dean, Faculty of Medical and Health Sciences Prof. Maxime Merheb
+        In August of 2023, Prof. Maxime Merheb took on the role of Dean for the College of Medical and Health Sciences across both the Abu Dhabi and Al Ain Campuses. Boasting a career spanning since 2006 in the realm of Higher Education and Scientific Research, Prof. Maxime Merheb is a distinguished academic leader with a particular emphasis on the North American Education style.
+    </desc>
+    </staff>
+    <staff>
+    <url>https://lc.ac.ae/personnel/dr-ahmad-abu-abdo-phd</url>
+    <desc>
+        Associate Professor and Dean of Engineering Dr. Ahmad Abu Abdo, PhD
+        Dr. Ahmad is the Dean of Engineering and an Associate Professor in the Department of Civil Engineering. Dr. Ahmad obtained a Ph.D. and M.Sc. degree from the University of Idaho, USA, and his Bachelor of Science degree from the University of Jordan.
+    </desc>
+    </staff>
+    <staff>
+    <url>https://lc.ac.ae/personnel/dr-samar-mouti-phd</url>
+    <desc>
+        Acting Dean, Faculty of Information Technology Dr. Samar Mouti, PhD
+        Dr. Samar Mouti currently serves as an associate professor in the Information Technology faculty and holds the position of department head and Acting Dean within the IT faculty, showcasing her extensive expertise across multiple domains including teaching and administration.
+    </desc>
+    </staff>
+    <staff>
+    <url>https://lc.ac.ae/personnel/dr-mohammed-ramadhan-phd</url>
+    <desc>
+        Dean, Head of General Education and Foundation Development Dr. Mohammed Ramadhan, PhD
+        A professional Media Assistant Prof. with 27 years of experience in academic settings, and 12 years in the field of diplomacy and international affairs. Held different positions and spoken at various local and international events and was recognized as a professional trainer and a published author.
+    </desc>
+    </staff>
+</content>
 </url>
 `

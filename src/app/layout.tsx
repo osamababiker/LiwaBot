@@ -17,6 +17,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang='en'>
+      <link rel="icon" href="/icon.png" sizes="any" />
       <Providers>
         <body className={inter.className}>
           <Chat />
