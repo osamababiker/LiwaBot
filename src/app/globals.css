@@ -34,12 +34,12 @@ body {
 .scrollbar-track-blue-lighter::-webkit-scrollbar-track {
   --bg-opacity: 1;
   background-color: #f7fafc;
-  background-color: #3D3D5F;
+  background-color: rgba(247, 250, 252, var(--bg-opacity));
 }
 
 .scrollbar-thumb-blue::-webkit-scrollbar-thumb {
   --bg-opacity: 0.3;
-  background-color: #3D3D5F;
+  background-color: rgb(10, 102, 194);
   background-color: rgba(10, 102, 194, var(--bg-opacity));
 }
 
