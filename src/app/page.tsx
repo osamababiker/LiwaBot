@@ -16,7 +16,7 @@ export default function Home() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState<boolean>(false)
   return (
     <div className='bg-white'>
-      <header className='absolute inset-x-0 top-0 z-50'>
+      <header className='absolute inset-x-0 top-0 z-50 liwa-bg'>
         <nav
           className='flex items-center justify-between p-6 lg:px-8'
           aria-label='Global'>
@@ -24,11 +24,11 @@ export default function Home() {
             <Link href='#' className='-m-1.5 p-1.5'>
               <span className='sr-only'>Liwa Collge</span>
               <Image
-                className='h-20 w-auto'
+                className='w-auto'
                 src='/logo_.png'
                 alt=''
-                width={200}
-                height={200}
+                width={100}
+                height={100}
               />
             </Link>
           </div>
@@ -45,7 +45,7 @@ export default function Home() {
               <Link
                 key={item.name}
                 href={item.href}
-                className='text-sm font-semibold leading-6 liwa-color'>
+                className='text-sm font-semibold leading-6 text-white'>
                 {item.name}
               </Link>
             ))}

@@ -132,119 +132,9 @@ export const liwaData = `
 <desc> liwa college faculty of Education Department staff </desc>
 </url>
 <url>
-<loc>https://lc.ac.ae/course/bachelor-of-business-administration-in-accounting</loc>
-<desc> An overview about liwa college bachelor in Accounting program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bachelor-of-business-administration-in-business-information-technology</loc>
-<desc> An overview about liwa college bachelor in Business Information Technology program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bachelor-of-business-administration-in-tourism-and-hospitality-management</loc>
-<desc> An overview about liwa college bachelor in Tourism and Hospitality Management program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bachelor-of-business-administration-in-industrial-management</loc>
-<desc> An overview about liwa college bachelor in Industrial Management program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bachelor-of-business-administration-in-marketing</loc>
-<desc> An overview about liwa college bachelor in Marketing program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bachelor-of-business-administration-in-management</loc>
-<desc> An overview about liwa college bachelor in Management program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bachelor-of-business-administration-in-human-resource-management</loc>
-<desc> An overview about liwa college bachelor in Human Resource Management program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bachelor-of-business-administration-in-banking-and-finance</loc>
-<desc> An overview about liwa college bachelor in Banking and Finance program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bachelor-of-mass-communication-in-public-relations</loc>
-<desc> An overview about liwa college bachelor in Mass Communications Concentration in Public Relations program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bachelor-of-mass-communication-in-advertising</loc>
-<desc> An overview about liwa college bachelor in Mass Communications Concentration in Advertising program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bachelor-of-mass-communication-in-digital-media</loc>
-<desc> An overview about liwa college bachelor in Mass Communications Concentration in Digital Media program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bachelor-of-applied-health-sciences-in-health-information-management</loc>
-<desc> An overview about liwa college bachelor in Applied Health Sciences in Health Information program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bachelor-of-health-management</loc>
-<desc> An overview about liwa college bachelor in Health Management program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bs-in-medical-laboratory-science</loc>
-<desc> An overview about liwa college bachelor in Science in Medical Laboratory Analysis program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bs-in-medical-diagnostic-imaging</loc>
-<desc> An overview about liwa college bachelor in Science in Medical Diagnostic Imaging program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bs-in-emergency-medical-care</loc>
-<desc> An overview about liwa college bachelor in Science in Emergency Medical Care program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bs-in-respiratory-care</loc>
-<desc> An overview about liwa college bachelor in Science in Respiratory Care program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bachelor-of-science-in-civil-engineering</loc>
-<desc> An overview about liwa college bachelor in Science in Civil Engineering program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bachelor-of-science-in-mechanical-engineering</loc>
-<desc> An overview about liwa college bachelor in Science in Mechanical Engineering program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bachelor-of-science-in-industrial-engineering</loc>
-<desc> An overview about liwa college bachelor in Science in Industrial Engineering program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/bachelor-of-information-technology</loc>
-<desc> An overview about liwa college bachelor in Information Technology program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/diploma-in-human-resource-management</loc>
-<desc> An overview about liwa college Diploma in Human Resource Management program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/diploma-in-business-administration-and-computer-information-systems</loc>
-<desc> An overview about liwa college Diploma in Business Administration and Computer Information Systems program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/diploma-in-health-management</loc>
-<desc> An overview about liwa college Diploma in Health Management program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/diploma-in-medical-lab-science</loc>
-<desc> An overview about liwa college Diploma in Medical Laboratory Analysis program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/diploma-in-information-technology</loc>
-<desc> An overview about liwa college Diploma in Information Technology program </desc>
-</url>
-<url>
-<loc>https://lc.ac.ae/course/diploma-in-computer-graphics-animation</loc>
-<desc> An overview about liwa college Diploma in Computer Graphics & Animation program </desc>
-</url>
-<url>
 <loc>https://lc.ac.ae/liwa-college-strategy</loc>
 <desc> An overview about liwa college Strategy </desc>
 </url>
-<url>
-<loc>https://lc.ac.ae/business-administration/business-administration-faculty</loc>
 <content>
     <staff>
     <url>https://lc.ac.ae/president-message</url>
@@ -296,6 +186,98 @@ export const liwaData = `
         A professional Media Assistant Prof. with 27 years of experience in academic settings, and 12 years in the field of diplomacy and international affairs. Held different positions and spoken at various local and international events and was recognized as a professional trainer and a published author.
     </desc>
     </staff>
+</content>
+<content>
+    <program>
+        <name>Bachelor of Business Administration in Accounting</name>
+        <name>BBA in Accounting</name>
+        <url>https://lc.ac.ae/course/bachelor-of-business-administration-in-accounting</url>
+        <desc>The Bachelor of Business Administration in Accounting will provide you with a thorough understanding of the fundamental principles and theories of accounting. In addition, it will teach you how to apply theory into practice, successfully and ethically, in all kinds of organizations.</desc>
+        <CreditHours>123</CreditHours>
+    </program>
+</content>
+<content>
+    <program>
+        <name>Bachelor of Business Administration in Business Information Technology</name>
+        <name>BBA in Business Information Technology</name>
+        <url>https://lc.ac.ae/course/bachelor-of-business-administration-in-business-information-technology</url>
+        <desc>The BBA in Business Information Technology will provide a solid foundation in Information Technology (IT) principles and practices. The emphasis is on the applications of Information Technology rather than the computer itself.
+
+        You will gain an understanding of web and application development in the context of the business environment and capabilities in systems analysis and design, database management, and IT project management. The program also includes general business subjects, with business topics integrated into information systems courses.</desc>
+        <CreditHours>123</CreditHours>
+    </program>
+</content>
+<content>
+    <program>
+        <name>Bachelor in Tourism and Hospitality Management</name>
+        <name>BBA in Tourism and Hospitality Management</name>
+        <url>https://lc.ac.ae/course/bachelor-of-business-administration-in-tourism-and-hospitality-management</url>
+        <desc> The BBA in Tourism and Hospitality Management will teach you to perform effectively in tourism and hospitality-related government and private organizations. The program is driven by the fact that tourism contributes significantly to the economic and socio-cultural development of many countries and is a significant sector in the strategic goals of the UAE for future growth. </desc>
+        <CreditHours>123</CreditHours>
+    </program>
+</content>
+<content>
+    <program>
+        <name>Bachelor of Business Administration in Marketing</name>
+        <name>BBA in Marketing</name>
+        <url>https://lc.ac.ae/course/bachelor-of-business-administration-in-marketing</url>
+        <desc> The Bachelor of Business Administration in Marketing will develop the skills that will enable you to function in different marketing and managerial roles. In addition, you will learn how to write a comprehensive business plan and acquire the capabilities required to start a business, attract venture funding, and lead entrepreneurial teams. </desc>
+        <CreditHours>123</CreditHours>
+    </program>
+</content>
+<content>
+    <program>
+        <name>	Bachelor of Business Administration in Industrial Management</name>
+        <name>BBA in Industrial Management</name>
+        <url>https://lc.ac.ae/course/bachelor-of-business-administration-in-industrial-management</url>
+        <desc> The BBA in Industrial Management will provide you with the competencies and knowledge to understand and implement the business concepts that help optimize and manage production or other business processes. Incorporating the principles of manufacturing systems, logistics, supply chain management, and Total Quality Management, you will learn how to plan the efficient and economical use of resources in a business. </desc>
+        <CreditHours>123</CreditHours>
+    </program>
+</content>
+<content>
+    <program>
+        <name>	Bachelor of Business Administration in Management</name>
+        <name>BBA in Management</name>
+        <url>https://lc.ac.ae/course/bachelor-of-business-administration-in-industrial-management</url>
+        <desc> The BBA in Management will teach you business management fundamentals and various business aspects in a challenging learning environment that fosters excellence. Through the program, you will develop the competencies to become a successful business professional. </desc>
+        <CreditHours>123</CreditHours>
+    </program>
+</content>
+<content>
+    <program>
+        <name>Bachelor of Business Administration in Human Resource Management</name>
+        <name>BBA in Human Resource Management</name>
+        <url>https://lc.ac.ae/course/bachelor-of-business-administration-in-human-resource-management</url>
+        <desc> The BBA in Human Resource Management will provide you with the knowledge and skills required to become a qualified HR professional. Courses are focused on optimizing human resource practices, including recruitment and selection, training and development, performance management, compensation and benefits, labor relations, and occupational health and safety. </desc>
+        <CreditHours>123</CreditHours>
+    </program>
+</content>
+<content>
+    <program>
+        <name>Bachelor of Business Administration in Banking and Finance</name>
+        <name>BBA in Banking and Finance</name>
+        <url>https://lc.ac.ae/course/bachelor-of-business-administration-in-human-resource-management</url>
+        <desc> The BBA in Banking and Finance will equip you with essential knowledge of the fundamental principles and theories of Banking and Finance and the most up-to-date financial applications. In addition, it will teach you how to apply theory to practice successfully and ethically in all kinds of organizations. </desc>
+        <CreditHours>123</CreditHours>
+    </program>
+</content>
+<content>
+    <program>
+        <name>Diploma in Human Resource Management</name>
+        <name>Diploma in Human Resource Management</name>
+        <url>https://lc.ac.ae/course/diploma-in-human-resource-management</url>
+        <desc> The Diploma in Human Resource Management will provide you with the knowledge and skills required to become a qualified HR professional. Courses are focused on optimizing human resource practices, including recruitment and selection, training and development, performance management, compensation and benefits, labor relations, and occupational health and safety. </desc>
+        <CreditHours>66</CreditHours>
+    </program>
+</content>
+<content>
+    <program>
+        <name>Diploma in Business Administration and Computer Information Systems</name>
+        <name>Diploma in Business Administration and Computer Information Systems</name>
+        <url>https://lc.ac.ae/course/diploma-in-business-administration-and-computer-information-systems</url>
+        <desc> The Diploma in Business Administration and Computer Information Systems combines business administration with computer knowledge. It was designed in response to global demand for professionals who can understand business processes and strategically utilize information technology to gain a competitive edge in today’s ever-evolving hi-tech business environment. </desc>
+        <CreditHours>75</CreditHours>
+    </program>
 </content>
 </url>
 `
